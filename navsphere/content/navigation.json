@@ -6,14 +6,6 @@
       "icon": "",
       "items": [
         {
-          "id": "1_1",
-          "title": "首页",
-          "href": "http://14.103.166.39/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1_3",
           "title": "Gitea",
           "href": "https://14.103.166.39/gitea/",
