@@ -14,14 +14,6 @@
           "enabled": true
         },
         {
-          "id": "1_2",
-          "title": "查询",
-          "href": "http://14.103.166.39/items",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        },
-        {
           "id": "1_3",
           "title": "Gitea",
           "href": "https://14.103.166.39/gitea/",
