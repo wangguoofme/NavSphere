@@ -2,14 +2,80 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "本地",
+      "icon": "",
       "items": [
         {
           "id": "1_1",
-          "title": "中小学教材电子版",
-          "href": "https://jc.pep.com.cn/",
-          "description": "人民教育出版社-中小学教材电子版",
+          "title": "首页",
+          "href": "http://14.103.166.39/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1_2",
+          "title": "查询",
+          "href": "http://14.103.166.39/items",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1_3",
+          "title": "Gitea",
+          "href": "https://14.103.166.39/gitea/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": false
+    },
+    {
+      "id": "2",
+      "title": "搜索引擎",
+      "icon": "",
+      "items": [
+        {
+          "id": "2_1",
+          "title": "Yandex",
+          "href": "https://www.yandex.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "2_2",
+          "title": "百度",
+          "href": "https://www.baidu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "2_3",
+          "title": "谷歌",
+          "href": "https://www.google.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "2_4",
+          "title": "必应",
+          "href": "https://www.bing.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "2_5",
+          "title": "秘塔AI搜索",
+          "href": "https://metaso.cn/",
+          "description": "",
           "icon": "",
           "enabled": true
         }
@@ -19,29 +85,2028 @@
       "enabled": true
     },
     {
-      "id": "2",
-      "title": "网站",
-      "icon": "Brain",
-      "items": [],
-      "subCategories": [
+      "id": "3",
+      "title": "发现",
+      "icon": "",
+      "items": [
         {
-          "id": "2-1",
-          "title": "官方",
-          "icon": "Book",
+          "id": "3_1",
+          "title": "不死鸟",
+          "href": "https://iui.su/",
           "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "2-1-1",
-              "title": "人民教育出版社",
-              "href": "https://www.pep.com.cn/",
-              "description": "人民教育出版社官方网站",
-              "icon": "",
-              "enabled": true
-            }
-          ]
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "3_2",
+          "title": "新趣集",
+          "href": "https://xinquji.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "3_3",
+          "title": "一网一匠极速版",
+          "href": "https://ywyj.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "3_4",
+          "title": "小羿",
+          "href": "https://xiaoyi.vc/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "3_5",
+          "title": "有趣网址之家",
+          "href": "https://youquhome.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "3_6",
+          "title": "开源精选",
+          "href": "https://www.ossnav.com//",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "title": "Developer",
+      "icon": "",
+      "items": [
+        {
+          "id": "4_1",
+          "title": "GitHub",
+          "href": "https://github.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_2",
+          "title": "Gitee",
+          "href": "https://gitee.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_3",
+          "title": "Gitea",
+          "href": "https://gitea.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_4",
+          "title": "GitHub镜像",
+          "href": "https://bgithub.xyz/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_5",
+          "title": "GitHub explore",
+          "href": "https://github.com/explore",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_6",
+          "title": "Github 趋势",
+          "href": "https://github.com/trending",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_7",
+          "title": "Dromara",
+          "href": "https://dromara.org.cn/zh//",
+          "description": "开源爱好者齐聚的非盈利组织",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_8",
+          "title": "HelloGithub",
+          "href": "https://hellogithub.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_9",
+          "title": "Oschina",
+          "href": "https://www.oschina.net/project",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_10",
+          "title": "Github中文社区",
+          "href": "https://www.github-zh.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_11",
+          "title": "GitCode",
+          "href": "https://gitcode.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_12",
+          "title": "开源中国",
+          "href": "https://www.oschina.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_13",
+          "title": "MDN",
+          "href": "https://developer.mozilla.org/zh-CN/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_14",
+          "title": "Gitee大全",
+          "href": "https://gitee.com/all-about-git",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_15",
+          "title": "GitHub Hosts",
+          "href": "https://githubhosts.xuanyuan.me/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_16",
+          "title": "MvnRepository",
+          "href": "https://mvnrepository.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "4_17",
+          "title": "CentralSonatype",
+          "href": "https://central.sonatype.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "5",
+      "title": "导航",
+      "icon": "",
+      "items": [
+        {
+          "id": "5_1",
+          "title": "果汁导航",
+          "href": "http://guozhivip.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "5_2",
+          "title": "小呆导航",
+          "href": "https://webjike.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "5_3",
+          "title": "小兔搜搜",
+          "href": "https://xiaotusoso.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "5_4",
+          "title": "国外常用网址导航",
+          "href": "https://aosen.github.io/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "5_5",
+          "title": "奶芙导航",
+          "href": "https://www.navs.cc/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "title": "AI",
+      "icon": "",
+      "items": [
+        {
+          "id": "6_1",
+          "title": "DeepSeek(chat)",
+          "href": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_2",
+          "title": "豆包",
+          "href": "https://doubao.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_3",
+          "title": "扣子空间",
+          "href": "https://space.coze.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_4",
+          "title": "纳米AI",
+          "href": "https://www.n.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_5",
+          "title": "文心一言",
+          "href": "https://yiyan.baidu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_6",
+          "title": "Kimi",
+          "href": "https://chat.tomyres.com/#/pages/web/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_7",
+          "title": "ChatGPT",
+          "href": "https://chat.openai.com/auth/login",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_8",
+          "title": "通义千问",
+          "href": "https://qianwen.aliyun.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_9",
+          "title": "智谱清言",
+          "href": "https://chatglm.cn/detail",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "6_10",
+          "title": "提示词优化器",
+          "href": "https://prompt.always200.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "title": "GFW",
+      "icon": "",
+      "items": [
+        {
+          "id": "7_1",
+          "title": "Telegram",
+          "href": "https://web.telegram.org/a/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "7_2",
+          "title": "X",
+          "href": "https://x.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "7_3",
+          "title": "YouTube",
+          "href": "https://www.youtube.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "7_4",
+          "title": "Duckduckgo",
+          "href": "https://duckduckgo.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "7_5",
+          "title": "Instagram",
+          "href": "https://www.instagram.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "7_6",
+          "title": "Facebook",
+          "href": "https://facebook.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "8",
+      "title": "开发工具",
+      "icon": "",
+      "items": [
+        {
+          "id": "8_1",
+          "title": "Git",
+          "href": "https://git-scm.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_2",
+          "title": "TortoiseGit",
+          "href": "https://tortoisegit.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_3",
+          "title": "Maven",
+          "href": "https://maven.apache.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_4",
+          "title": "JetBrains",
+          "href": "https://www.jetbrains.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_5",
+          "title": "TRAE",
+          "href": "https://www.trae.cn/ide/download",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_6",
+          "title": "Another Redis",
+          "href": "https://goanother.com/cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_7",
+          "title": "Docker",
+          "href": "https://www.docker.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_8",
+          "title": "VScode",
+          "href": "https://vscode.p2hp.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_9",
+          "title": "Navicat",
+          "href": "https://www.navicat.com.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_10",
+          "title": "向日葵",
+          "href": "https://sunlogin.oray.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_11",
+          "title": "MobaXterm",
+          "href": "https://mobaxterm.mobatek.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_12",
+          "title": "Reqable",
+          "href": "https://reqable.com/zh-CN/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_13",
+          "title": "Chocolatey",
+          "href": "https://community.chocolatey.org/packages",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_14",
+          "title": "Postman",
+          "href": "https://www.postman.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_15",
+          "title": "MQTTX",
+          "href": "https://mqttx.app/zh",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_16",
+          "title": "Docker 镜像搜索（加速）",
+          "href": "https://image.cloudlayer.icu/search",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_17",
+          "title": "Localsend",
+          "href": "https://localsend.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "8_18",
+          "title": "Awesome-adb",
+          "href": "https://mazhuang.org/awesome-adb/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "9",
+      "title": "开发教程",
+      "icon": "",
+      "items": [
+        {
+          "id": "9_1",
+          "title": "菜鸟教程",
+          "href": "https://www.runoob.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "9_2",
+          "title": "阮一峰",
+          "href": "https://www.ruanyifeng.com/blog/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "9_3",
+          "title": "CSDN",
+          "href": "https://www.csdn.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "9_4",
+          "title": "Python 资源大全",
+          "href": "https://jobbole.github.io/awesome-python-cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "10",
+      "title": "软件下载",
+      "icon": "",
+      "items": [
+        {
+          "id": "10_1",
+          "title": "异星软件空间",
+          "href": "https://www.yxssp.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_2",
+          "title": "蓝鲨应用库",
+          "href": "https://www.lsapk.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_3",
+          "title": "果核剥壳",
+          "href": "https://www.ghxi.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_4",
+          "title": "腾讯软件中心",
+          "href": "https://pc.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_5",
+          "title": "F-Droid",
+          "href": "https://f-droid.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_6",
+          "title": "APKPure",
+          "href": "https://apkpure.com/cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_7",
+          "title": "Softonic",
+          "href": "https://en.softonic.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_8",
+          "title": "Uptodown",
+          "href": "https://www.uptodown.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_9",
+          "title": "Openapk",
+          "href": "https://www.openapk.net/zh/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_10",
+          "title": "SoftMany",
+          "href": "https://softmany.com/cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_11",
+          "title": "PortableApps",
+          "href": "https://portableapps.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_12",
+          "title": "吾爱破解",
+          "href": "https://www.52pojie.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_13",
+          "title": "HappyMod",
+          "href": "https://happymod.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_14",
+          "title": "Chocolatey",
+          "href": "https://community.chocolatey.org/packages",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_15",
+          "title": "华军软件园",
+          "href": "https://www.onlinedown.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "10_16",
+          "title": "绿软下载",
+          "href": "https://www.lvruan.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "11",
+      "title": "跨平台开发",
+      "icon": "",
+      "items": [
+        {
+          "id": "11_1",
+          "title": "tauri",
+          "href": "https://tauri.app/zh-cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "11_2",
+          "title": "electron",
+          "href": "https://www.electronjs.org/zh",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "11_3",
+          "title": "nw.js",
+          "href": "https://nwjs.io/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "12",
+      "title": "常见编程语言",
+      "icon": "",
+      "items": [
+        {
+          "id": "12_1",
+          "title": "Python",
+          "href": "https://www.python.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_2",
+          "title": "Java",
+          "href": "https://www.java.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_3",
+          "title": "JavaScript",
+          "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_4",
+          "title": "C++",
+          "href": "https://isocpp.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_5",
+          "title": "C#",
+          "href": "https://dotnet.microsoft.com/languages/csharp",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_6",
+          "title": "Go",
+          "href": "https://golang.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_7",
+          "title": "Ruby",
+          "href": "https://www.ruby-lang.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_8",
+          "title": "PHP",
+          "href": "https://www.php.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "12_9",
+          "title": "Rust",
+          "href": "https://www.rust-lang.org/zh-CN/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "13",
+      "title": "浏览器插件",
+      "icon": "",
+      "items": [
+        {
+          "id": "13_1",
+          "title": "Crx搜搜",
+          "href": "https://www.crxsoso.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "13_2",
+          "title": "插件小屋",
+          "href": "https://www.chajianxw.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "14",
+      "title": "TV",
+      "icon": "",
+      "items": [
+        {
+          "id": "14_1",
+          "title": "当贝市场",
+          "href": "https://www.dangbei.com/app/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "14_2",
+          "title": "聚玩盒子-数据源",
+          "href": "https://www.juwanhezi.com/other/jsonlist",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "14_3",
+          "title": "饭太硬",
+          "href": "https://www.xn--sss604efuw.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "14_4",
+          "title": "源动力",
+          "href": "https://www.sourcepower.top/index",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "14_5",
+          "title": "网易爆米花",
+          "href": "https://bmh.163.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "15",
+      "title": "资源搜索",
+      "icon": "",
+      "items": [
+        {
+          "id": "15_1",
+          "title": "TelSearch",
+          "href": "https://www.telsearch.me/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_2",
+          "title": "BTSearch",
+          "href": "https://www.btsearch.love/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_3",
+          "title": "PanSearch",
+          "href": "https://www.pansearch.me/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_4",
+          "title": "资源中转站",
+          "href": "https://home.zyzzz.vip/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_5",
+          "title": "网盘资源避难所",
+          "href": "https://daiguaji.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_6",
+          "title": "阿里搜搜",
+          "href": "https://alipanso.cc/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_7",
+          "title": "盘搜VIP",
+          "href": "https://www.pansou.vip/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "15_8",
+          "title": "The Pirate Bay",
+          "href": "https://piratebay.live/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "16",
+      "title": "办公",
+      "icon": "",
+      "items": [
+        {
+          "id": "16_1",
+          "title": "小米云服务",
+          "href": "https://i.mi.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "16_2",
+          "title": "163邮箱",
+          "href": "https://mail.163.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "16_3",
+          "title": "Gmail",
+          "href": "https://mail.google.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "16_4",
+          "title": "谷歌翻译",
+          "href": "https://translate.google.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "17",
+      "title": "在线工具",
+      "icon": "",
+      "items": [
+        {
+          "id": "17_1",
+          "title": "Ctool",
+          "href": "https://ctool.dev/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_2",
+          "title": "正则表达式",
+          "href": "https://regexr.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_3",
+          "title": "微信文件传输",
+          "href": "https://filehelper.weixin.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_4",
+          "title": "网络剪切板",
+          "href": "https://netcut.cn/vanhelsing/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_5",
+          "title": "TextSharing",
+          "href": "https://cntshare.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_6",
+          "title": "文本派",
+          "href": "https://txtpad.cn/vanhelsing",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_7",
+          "title": "PasteBin",
+          "href": "https://paste.fastmirror.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_8",
+          "title": "Note.ms",
+          "href": "https://note.ms/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_9",
+          "title": "语雀",
+          "href": "https://www.yuque.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_10",
+          "title": "Cmd Markdown 编辑阅读器",
+          "href": "https://www.zybuluo.com/mdeditor",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_11",
+          "title": "金山文档",
+          "href": "https://www.kdocs.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "17_12",
+          "title": "飞书",
+          "href": "https://www.feishu.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "18",
+      "title": "常用软件",
+      "icon": "",
+      "items": [
+        {
+          "id": "18_1",
+          "title": "Chrome",
+          "href": "https://www.google.cn/chrome/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_2",
+          "title": "Notepad++",
+          "href": "https://notepad-plus-plus.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_3",
+          "title": "LocalSend",
+          "href": "https://localsend.org/zh-CN",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_4",
+          "title": "Snipaste",
+          "href": "https://zh.snipaste.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_5",
+          "title": "Ditto",
+          "href": "https://ditto-cp.sourceforge.io/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_6",
+          "title": "FSCapture",
+          "href": "https://www.faststonecapture.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_7",
+          "title": "CherryTree",
+          "href": "https://www.giuspen.net/cherrytree/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_8",
+          "title": "AutoHotkey",
+          "href": "https://autohotkey.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_9",
+          "title": "u-tools",
+          "href": "https://www.u-tools.cn/index.html",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_10",
+          "title": "Cobalt",
+          "href": "https://cobalt.tools/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_11",
+          "title": "微信输入法",
+          "href": "https://z.weixin.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "18_12",
+          "title": "搜狗输入法",
+          "href": "https://shurufa.sogou.com/windows",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "19",
+      "title": "影音",
+      "icon": "",
+      "items": [
+        {
+          "id": "19_1",
+          "title": "低端影视发布页",
+          "href": "https://ddys.info/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_2",
+          "title": "茶杯狐",
+          "href": "https://cupfox.love/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_3",
+          "title": "音范丝",
+          "href": "https://www.yinfans.me/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_4",
+          "title": "腾讯视频",
+          "href": "https://v.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_5",
+          "title": "爱奇艺",
+          "href": "https://www.iqiyi.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_6",
+          "title": "优酷",
+          "href": "https://www.youku.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_7",
+          "title": "芒果TV",
+          "href": "https://www.mgtv.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_8",
+          "title": "搜狐视频",
+          "href": "https://www.sohu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_9",
+          "title": "哔哩哔哩",
+          "href": "https://www.bilibili.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_10",
+          "title": "西瓜视频",
+          "href": "https://www.ixigua.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_11",
+          "title": "央视影音",
+          "href": "https://www.cctv.com/lm/yspd/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_12",
+          "title": "1905电影网",
+          "href": "https://www.1905.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_13",
+          "title": "TMDB",
+          "href": "https://www.themoviedb.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "19_14",
+          "title": "搜片",
+          "href": "https://soupian.plus/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "20",
+      "title": "常用网盘",
+      "icon": "",
+      "items": [
+        {
+          "id": "20_1",
+          "title": "阿里云盘",
+          "href": "https://aliyundrive.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_2",
+          "title": "百度网盘",
+          "href": "https://pan.baidu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_3",
+          "title": "123云盘",
+          "href": "https://www.123pan.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_4",
+          "title": "夸克网盘",
+          "href": "https://m.quark.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_5",
+          "title": "迅雷云盘",
+          "href": "https://pan.xunlei.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_6",
+          "title": "坚果云",
+          "href": "https://www.jianguoyun.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_7",
+          "title": "OneDrive",
+          "href": "https://onedrive.live.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_8",
+          "title": "115网盘",
+          "href": "https://115.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_9",
+          "title": "PikPak",
+          "href": "https://mypikpak.com/zh-CN",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "20_10",
+          "title": "Google云端硬盘",
+          "href": "https://drive.google.com/drive/home",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "21",
+      "title": "社交",
+      "icon": "",
+      "items": [
+        {
+          "id": "21_1",
+          "title": "微信",
+          "href": "https://www.weixin.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_2",
+          "title": "QQ空间",
+          "href": "https://qzone.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_3",
+          "title": "新浪微博",
+          "href": "https://www.weibo.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_4",
+          "title": "知乎",
+          "href": "https://www.zhihu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_5",
+          "title": "豆瓣",
+          "href": "https://www.douban.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_6",
+          "title": "百度贴吧",
+          "href": "https://tieba.baidu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_7",
+          "title": "果壳网",
+          "href": "https://www.guokr.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_8",
+          "title": "小红书",
+          "href": "https://www.xiaohongshu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_9",
+          "title": "掘金",
+          "href": "https://juejin.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_10",
+          "title": "简书",
+          "href": "https://www.jianshu.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_11",
+          "title": "抖音",
+          "href": "https://www.douyin.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_12",
+          "title": "V2EX",
+          "href": "https://v2ex.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_13",
+          "title": "AcFun",
+          "href": "https://www.acfun.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "21_14",
+          "title": "哔哩哔哩",
+          "href": "https://www.bilibili.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "22",
+      "title": "地图",
+      "icon": "",
+      "items": [
+        {
+          "id": "22_1",
+          "title": "高德地图",
+          "href": "https://amap.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "22_2",
+          "title": "谷歌地图",
+          "href": "https://www.google.com/maps",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "23",
+      "title": "私人仓库",
+      "icon": "",
+      "items": [
+        {
+          "id": "23_1",
+          "title": "cnxiaobai",
+          "href": "https://file.cnxiaobai.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "23_2",
+          "title": "惜染图库",
+          "href": "https://hefollo.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "23_3",
+          "title": "lm379",
+          "href": "https://pan.lm379.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "24",
+      "title": "壁纸",
+      "icon": "",
+      "items": [
+        {
+          "id": "24_1",
+          "title": "Wallhaven",
+          "href": "https://wallhaven.cc/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "24_2",
+          "title": "Unsplash",
+          "href": "https://unsplash.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "24_3",
+          "title": "Pexels",
+          "href": "https://www.pexels.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "24_4",
+          "title": "Pixabay",
+          "href": "https://pixabay.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "24_5",
+          "title": "Alpha Coders",
+          "href": "https://wall.alphacoders.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "24_6",
+          "title": "Wallspic",
+          "href": "https://wallspic.com/cn",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "24_7",
+          "title": "哲风壁纸",
+          "href": "https://haowallpaper.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "25",
+      "title": "图书阅读器",
+      "icon": "",
+      "items": [
+        {
+          "id": "25_1",
+          "title": "Kindle 阅读",
+          "href": "https://www.amazon.cn/kindle",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "25_2",
+          "title": "多看阅读",
+          "href": "https://www.duokan.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "25_3",
+          "title": "掌阅 iReader",
+          "href": "https://www.ireader.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "25_4",
+          "title": "微信读书",
+          "href": "https://weread.qq.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "25_5",
+          "title": "Calibre",
+          "href": "https://calibre-ebook.com/zh_CN",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "26",
+      "title": "前端项目集锦",
+      "icon": "",
+      "items": [
+        {
+          "id": "26_1",
+          "title": "Vue.js",
+          "href": "https://vuejs.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_2",
+          "title": "React",
+          "href": "https://reactjs.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_3",
+          "title": "Angular",
+          "href": "https://angular.io/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_4",
+          "title": "Next.js",
+          "href": "https://nextjs.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_5",
+          "title": "Nuxt.js",
+          "href": "https://nuxtjs.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_6",
+          "title": "Svelte",
+          "href": "https://svelte.dev/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_7",
+          "title": "Gatsby",
+          "href": "https://www.gatsbyjs.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_8",
+          "title": "Node.js 中文网",
+          "href": "https://nodejs.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "26_9",
+          "title": "Open-Source UI",
+          "href": "https://uiverse.io/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "27",
+      "title": "其他",
+      "icon": "",
+      "items": [
+        {
+          "id": "27_1",
+          "title": "零点行星",
+          "href": "https://fonts.zeoseven.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "27_2",
+          "title": "Draw.io",
+          "href": "https://app.diagrams.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "27_3",
+          "title": "NewsNow",
+          "href": "https://newsnow.busiyi.world/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "27_4",
+          "title": "飞鱼视频解析",
+          "href": "https://www.feiyudo.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "27_5",
+          "title": "FRP文档",
+          "href": "https://gofrp.org/zh-cn/docs/overview/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "27_6",
+          "title": "Maigoo",
+          "href": "https://www.maigoo.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "27_7",
+          "title": "screego",
+          "href": "https://app.screego.net/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "28",
+      "title": "云服务器",
+      "icon": "",
+      "items": [
+        {
+          "id": "28_1",
+          "title": "火山引擎",
+          "href": "https://console.volcengine.com/home",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "29",
+      "title": "IoT",
+      "icon": "",
+      "items": [
+        {
+          "id": "29_1",
+          "title": "巴法云",
+          "href": "https://bemfa.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "30",
+      "title": "学习",
+      "icon": "",
+      "items": [
+        {
+          "id": "30_1",
+          "title": "古诗文网",
+          "href": "https://www.gushiwen.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "30_2",
+          "title": "AsPoem",
+          "href": "https://aspoem.com/zh-Hans",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "30_3",
+          "title": "新概念英语",
+          "href": "https://nce.ichochy.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "31",
+      "title": "搜索",
+      "icon": "",
+      "items": [
+        {
+          "id": "31_1",
+          "title": "电影先生",
+          "href": "https://yandex.com/search/?text=电影先生",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "31_2",
+          "title": "BTSearch",
+          "href": "https://yandex.com/search/?text=BTSearch",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "31_3",
+          "title": "奈飞",
+          "href": "https://yandex.com/search/?text=奈飞",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "31_4",
+          "title": "低端影视",
+          "href": "https://yandex.com/search/?text=低端影视",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
       "description": "",
       "enabled": true
     }
