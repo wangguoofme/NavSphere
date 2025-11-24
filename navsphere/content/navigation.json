@@ -4,16 +4,7 @@
       "id": "1",
       "title": "本地",
       "icon": "",
-      "items": [
-        {
-          "id": "1_3",
-          "title": "Gitea",
-          "href": "https://14.103.166.39/gitea/",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "",
       "enabled": false
