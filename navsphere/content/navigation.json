@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "本地",
-      "icon": "",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": false
-    },
-    {
       "id": "2",
       "title": "搜索引擎",
       "icon": "",
